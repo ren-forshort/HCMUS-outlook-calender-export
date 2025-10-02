@@ -31,7 +31,7 @@ Script `hcmus_outlook_calendar.user.js` là một UserScript dành cho Tampermon
 3. Nhấn "Save" (nếu không có Make recurring thì chỉ save ở muỗi tên thứ 2)
 ![](images/Screenshot%202025-10-02%20165905.png)
 4. Để xem lịch vào phần "calender" của outlook và chọn xem theo tuần
-![](images/Screenshot%2025-10-02%20165943.png)
+![](images/Screenshot%202025-10-02%20165943.png)
 
 ---
 
