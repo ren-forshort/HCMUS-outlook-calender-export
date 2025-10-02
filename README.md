@@ -24,10 +24,11 @@ Script `hcmus_outlook_calendar.user.js` là một UserScript dành cho Tampermon
 
 ## 🚀 Cách sử dụng
 
-1. Vào trang **Thời khoá biểu / Lịch học** trên Portal HCMUS  
-2. Script sẽ tự chạy và xuất hiện nút **“Add to Outlook”**  
-3. Nhấn vào nút đó → Outlook Calendar mở ra ở **tab mới**  
-4. Kiểm tra thông tin → Lưu sự kiện
+1. Vào trang **Thời khoá biểu / Lịch học** trên Portal HCMUS
+![](images/Screenshot 2025-10-02 165816.png) 
+3. Script sẽ tự chạy và xuất hiện nút **“Add to Outlook”** 
+4. Nhấn vào nút đó → Outlook Calendar mở ra ở **tab mới**  
+5. Kiểm tra thông tin → Lưu sự kiện
 
 ---
 
